@@ -33,7 +33,7 @@ No terminal, executar o comando:
 
 Após a instalação, execute a lib com o comando `npx md-links-caroalvim <path-to-file>`
 
-Para avaliar cada link e receber a lista com os links e os status http, executar o comando:
+Para avaliar cada link e receber a lista com os seus status http, executar o comando:
 
 `npx md-links-caroalvim <path-to-file> validate`
 
