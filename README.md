@@ -32,11 +32,9 @@ No terminal, executar o comando:
 `npm i md-links-caroalvim`
 
 Após a instalação, execute a lib com o comando `npx md-links-caroalvim <path-to-file>`
-
 Exemplo: `npx md-links-caroalvim ./files/text-for-test.md`
 
 Para avaliar cada link e receber a lista com os links e os status http, executar o comando:
-
 `npx md-links-caroalvim <path-to-file> validate`
 
 Exemplo: `npx md-links-caroalvim ./files/text-for-test.md`
