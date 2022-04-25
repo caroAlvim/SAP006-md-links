@@ -42,6 +42,7 @@ Para avaliar cada link e receber a lista com os links e os status http, executar
 
 ***  O caminho do arquivo pode ser relativo ao diretório de onde você está executando a lib, ou absoluto.
 
+Link no [NPM](https://www.npmjs.com/package/md-links-caroalvim)
 
 ## Implementações futuras
 
